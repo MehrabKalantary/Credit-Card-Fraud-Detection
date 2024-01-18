@@ -76,10 +76,10 @@ Methods performed
 * Decision boundary
 
 Results on random forest classifier for test data
-![p2](sample/conf.png)
+* ![p2](sample/conf.png)
 
 
-![p3](sample/roc.png)
+* ![p3](sample/roc.png)
 
 
 ### Model Selection
